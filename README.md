@@ -1,0 +1,2 @@
+# Predictive-Analysis-and-Forecasting-of-Staple-Food-and-Fuel-Prices-Across-Africa
+This project focuses on predicting and analyzing the trends of staple food and fuel prices across Africa using machine learning techniques. The goal is to understand the impact of various economic factors on price fluctuations and to forecast future price trends to support effective decision-making and policy interventions.
